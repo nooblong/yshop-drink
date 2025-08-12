@@ -1,8 +1,10 @@
-export const VUE_APP_API_URL = 'http://localhost:48081/app-api'
+// export const VUE_APP_API_URL = 'http://127.0.0.1:48081/app-api'
+export const VUE_APP_API_URL = 'https://000007210.xyz:48082/app-api'
 //export const VUE_APP_API_URL = 'https://apidc.yixiang.co/app-api'
-export const VUE_APP_RESOURCES_URL = 'https://h5.yixiang.co/static'
+export const VUE_APP_RESOURCES_URL = 'https://000007210.xyz:48082/static'
+// export const VUE_APP_RESOURCES_URL = 'http://127.0.0.1:48081/static'
 export const VUE_APP_UPLOAD_URL = VUE_APP_API_URL + '/infra/file/upload'
-export const APP_ID = 'wxdbdbc123c8c30b45'
+export const APP_ID = 'wx1829204c51ed4421'
 
 const orderListStatus = {}
 

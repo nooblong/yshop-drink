@@ -1,6 +1,6 @@
 {
     "name" : "yshop-miniapp",
-    "appid" : "__UNI__ADC0FB0",
+    "appid" : "__UNI__8A36996",
     "description" : "",
     "versionName" : "1.0.0",
     "versionCode" : 1,
@@ -401,7 +401,7 @@
     "quickapp" : {},
     /* 小程序特有相关 */
     "mp-weixin" : {
-        "appid" : "wx001e2dc50bf532df",
+        "appid" : "wx1829204c51ed4421",
         "setting" : {
             "urlCheck" : false
         },
